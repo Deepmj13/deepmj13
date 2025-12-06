@@ -1,13 +1,13 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?font=Honk&center=true&vCenter=true&lines=Hii%2C+I+am+Deep;Student+%7C+Freelancer+;Building+stuff+with+code" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&pause=1000&center=true&vCenter=true&width=435&lines=Hii%2C+I+am+Deep;Student+%7C+Freelancer+;Building+stuff+with+code" alt="Typing SVG" /></a>
 </p>
 
 
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=deepmj13" alt="GitHub Streak" /></a>
+<center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=deepmj13" alt="GitHub Streak" /></a></center>
 
 <!-- Badges -->
 <p align="center">
