@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
   <a href="https://instagram.com/deepmj13.9">
-    <img src="https://img.shields.io/badge/instagram-d14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/instagram-d14836?style=for-the-badge&logo=instagram&logoColor=ffffff" />
   </a>
 </p>
 
