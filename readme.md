@@ -36,7 +36,7 @@
 
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/react.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/react.js-000000?style=for-the-badge&logo=react&logoColor=ffffff" />
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" />
