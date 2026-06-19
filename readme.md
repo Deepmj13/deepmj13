@@ -10,8 +10,6 @@
 
 ## 🚀 About Me
 
-🎓 MCA Student (3rd Semester)
-
 💻 Full Stack Developer passionate about building scalable applications
 
 🌱 Currently learning:
