@@ -19,13 +19,6 @@
 * System Design
 * Cloud Deployment
 
-🔭 Working on:
-
-* School ERP System
-* Hospital ERP System
-* SaaS Products
-* AI-Powered Applications
-
 🤝 Open to:
 
 * Freelance Projects
